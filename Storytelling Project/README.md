@@ -1,4 +1,4 @@
-![Image of the Olympic Rings](/visualizations/olympic-rings.jpg)
+![Image of the Olympic Rings](visualizations/olympic-rings.jpg)
 
 # Using data to investigate the United States dominance in the modern Summer Olympics
 
@@ -60,15 +60,15 @@ If you would like to see a more detailed look into the data cleaning process, yo
 
 At the 2024 Paris Summer games, the United States and China were numerically tied with 40 gold medals each.  The International Olympic Community breaks ties, such as this one, based on the overall medal tally.  Therefore the United States still gets to claim the top spot for gold medals won.  Does this hold true for the whole of the modern Olympic games?  Indeed it does.
 
-![Image of Bar Chart for Gold Medals](/visualizations/fig.svg)
+![Image of Bar Chart for Gold Medals](visualizations/fig.svg)
 
  The United States doesn't only dominate in gold medal wins, they are the top country for all medals.  China, second overall in medals at the 2024 Olympics is in 4th place in gold medals and 5th place in all medals won.   
 
- ![Image of Bar Chart for Gold Medals](/visualizations/fig3.svg)
+ ![Image of Bar Chart for Gold Medals](visualizations/fig3.svg)
 
  So far, I've really only viewed the cumulative totals of medals won.  Next up, I decided to see how the United States and China did over time.  
 
- ![Image of trended line Chart for Olympic Medals](/visualizations/fig4.svg)
+ ![Image of trended line Chart for Olympic Medals](visualizations/fig4.svg)
  
 Now we can clearly see that China surged to 2nd place in medal wins during the 2008 Olympics in Beijing, leading me to another interesting trend.  It would appear that the country hosting the Olympics are highly likely to see a spike in the number of medals won.  This is rather pronounced for the 1904 Olympics in St. Louis. Roughly 15 nations participated, due to the Russo-Japanese war; which made international travel very difficult and expensive.
 
@@ -76,16 +76,16 @@ Now we can clearly see that China surged to 2nd place in medal wins during the 2
 
 I began my quest to rate gender performance by aggregating the gold medals by event and gender for the past Olympic Games (1896-2020).  Historically speaking the United States men have contributed quite a bit to our medal tallys.  Compared to the 2024 Paris Summer Olympic games however, shows a shift towards the women's sporting events contributing more to gold medal wins.
 
-![Image of Bar Chart for medals by event and gender](/visualizations/fig6.svg)
-![Image of Bar Chart for medals by event and gender](/visualizations/fig7.svg)
+![Image of Bar Chart for medals by event and gender](visualizations/fig6.svg)
+![Image of Bar Chart for medals by event and gender](visualizations/fig7.svg)
 
 This of course lead me to my next Olympic quest for knowledge.  Was the women's performance in 2024 a one time thing?  I decided to look at the gold medal wins by gender over time for the United States.  In 1996, the US women surpassed their male counterparts for the first time; and they have bested their male counterparts in gold medals since the 2012 Summer Games in London.
 
-![Image trend Chart for US gold medals won by gender](/visualizations/fig9.svg)
+![Image trend Chart for US gold medals won by gender](visualizations/fig9.svg)
 
 While the men hold the advantage based on the cumulative history of gold medal wins for the United States, the women have begun a new trend of outperforming their male counterparts.  The same trend can be seen with total medals won.
 
-![Image trend Chart for US total medals won by gender](/visualizations/fig8.svg)
+![Image trend Chart for US total medals won by gender](visualizations/fig8.svg)
 
 ## How lucrative is it to win Olympic medals?
 
@@ -95,7 +95,7 @@ However, Hola! published an article containing a list of some countries that hav
 
 The biggest surprise is that this is one Olympic list that the United States does not rank in the number 1 spot.  
 
-![Image of Bar Chart for gold medal bonuses](/visualizations/fig10.svg)
+![Image of Bar Chart for gold medal bonuses](visualizations/fig10.svg)
 
 ## Conclusion
 
