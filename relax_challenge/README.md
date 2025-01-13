@@ -18,6 +18,7 @@ I ultimately chose the random forest model as the best.  When looking at the imp
 
 When looking at our target variable, “adopted user” we can see that this dataset was imbalanced. With more time, I would have tried oversampling techniques to balance the dataset.
 
-![Pie Chart with proportions for target variable](https://github.com/lmgaines30/kentucky-blue/blob/main/relax_challenge/Adopted_User_Distribution_Training_Data.png)  
+![Pie Chart with proportions for target variable](relax_challenge/adopted_user_pie_chart.svg) 
+ 
 Lastly, I would have created more dimensions to see if the referring users or organizations may have had any importance with predicting adoption rates.  However, they would have greatly increased the dimensionality and complexity of this model.
 
