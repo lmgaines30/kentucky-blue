@@ -22,3 +22,5 @@ When looking at our target variable, “adopted user” we can see that this dat
  
 Lastly, I would have created more dimensions to see if the referring users or organizations may have had any importance with predicting adoption rates.  However, they would have greatly increased the dimensionality and complexity of this model.
 
+[Link to Jupyter Notebook](https://github.com/lmgaines30/kentucky-blue/blob/main/relax_challenge/relax_challenge.ipynb)
+
